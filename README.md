@@ -39,7 +39,7 @@
   '*' --> consultar hora de alarma programada 
   '1,2,3,4,5,6,7,8,9,0' --> digitos para programar tiempos.
   
-  '*' y '#' actuan cono desplazamiento a izquierda y derecha respectivamente si estamos en modo programacion
+  '*' y '#' actuan como desplazamiento a izquierda y derecha respectivamente si estamos en modo programacion
  
    
    >> Fecha: 06/02/2016 
@@ -61,3 +61,6 @@
 
 ![](./imagenes/esquema_reloj_despertador_arduino.png)
 
+
+
+* Me he contrado con varias librerias LCD_i2c con el mismo nombre pero pequeñas variaciones. Asi que para no incurrir en errores adjunto en un fichero .rar las que se usa en este montaje
