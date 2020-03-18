@@ -8,6 +8,19 @@
 
 
 ```diff
++===== LISTA DE MATERIAL =====
+```	  
+ - 1x Arduino UNO
+ - 1x RTC DS1307
+ - 1x LCD 16x2 i2c
+ - 1x KeyPad 4x4
+ - 1x Buzzer
+ - 4x Resistencia 10K
+ - 1x BreadBoard
+ - Cables Dupont
+
+
+```diff
 +===== OPCIONES DISPONIBLES ===== 
 ```	
 
