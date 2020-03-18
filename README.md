@@ -6,6 +6,9 @@
 ```	  
  - Sencillo reloj despertador con alarma programable y mantenida durante 10 minutos, (salvo interaccion del usuario)
 
+* Me he contrado con varias librerias LCD_i2c con el mismo nombre pero pequeñas variaciones. Asi que para no incurrir en errores adjunto en un fichero .rar las que se usa en este montaje
+
+
 
 ```diff
 +===== LISTA DE MATERIAL =====
@@ -78,5 +81,16 @@
 ![](./imagenes/esquema_reloj_despertador_arduino.png)
 
 
+```diff
++===== DISPLAY MOSTRANDO LA HORA (Luz encendida)  ===== 
+```	
 
-* Me he contrado con varias librerias LCD_i2c con el mismo nombre pero pequeñas variaciones. Asi que para no incurrir en errores adjunto en un fichero .rar las que se usa en este montaje
+![](./imagenes/reloj_hora.png)
+
+
+```diff
++===== DISPLAY MOSTRANDO LA ALARMA PROGRAMADA  ===== 
+```	
+
+![](./imagenes/prog_alarma.png)
+
