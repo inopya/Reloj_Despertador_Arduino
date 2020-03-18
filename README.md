@@ -78,7 +78,7 @@
 +===== ESQUEMA DE CONEXION ===== 
 ```	
 
-![](./imagenes/esquema_reloj_despertador_arduino.png)
+![](./imagenes/esquema_reloj_despertador_arduino.gif)
 
 
 ```diff
