@@ -47,15 +47,15 @@
              mas de 45 segundos, se abandona una programacion automaticamente 
              y se cancela cualquier cambio en progreso.
           
-  'C' --> cancelar/anular una programacion de alarma u hora iniciadas.
+  'C' --> Cancelar/anular el proceso de programacion de Hora o Alarma que se haya iniciado.
   
   'D' --> Aceptar una programacion en curso, tanto del Reloj como de la Alarma o Apagar la luz (si esta encendida)
   
-  '*' --> consultar hora de alarma programada 
+  '*' --> Consultar la hora de alarma programada. 
   
   '1,2,3,4,5,6,7,8,9,0' --> digitos para programar tiempos.
   
-  '*' y '#' actuan como desplazamiento a izquierda y derecha respectivamente si estamos en modo programacion
+  '*' y '#' Actuan como flechas de desplazamiento a izquierda y derecha respectivamente si estamos en modo programación.
  
    
    >> Fecha: 06/02/2016 
@@ -71,9 +71,9 @@
 
 
 
-***
-***Esquema de conexion:***
-
+```diff
++===== ESQUEMA DE CONEXION ===== 
+```	
 
 ![](./imagenes/esquema_reloj_despertador_arduino.png)
 
