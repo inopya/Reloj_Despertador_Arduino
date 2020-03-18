@@ -35,8 +35,11 @@
              y se cancela cualquier cambio en progreso.
           
   'C' --> cancelar/anular una programacion de alarma u hora iniciadas.
+  
   'D' --> Aceptar una programacion en curso, tanto del Reloj como de la Alarma o Apagar la luz (si esta encendida)
+  
   '*' --> consultar hora de alarma programada 
+  
   '1,2,3,4,5,6,7,8,9,0' --> digitos para programar tiempos.
   
   '*' y '#' actuan como desplazamiento a izquierda y derecha respectivamente si estamos en modo programacion
