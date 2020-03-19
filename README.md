@@ -38,9 +38,11 @@
           impida que entremos en programacion).            
           El display mostrara en la parte derecha los caracteres 'ON' u 'OF' 
           segun el estado actual de la alarma. ¡Modificarla no significa activarla!.
-          Para Activarla o desactivarla, debemos entrar en modo 'Programacion Alarma' y pulsar la tecla 'B'
-          Eso dejara los valores actuales pero conmutará el estado de la alarma y nos motrara una mensaje 
-          del estado en que ha quedado.
+          Para Activarla o desactivarla, debemos pulsar la tecla 'A' estando en modo 'Programacion Alarma', 
+          esto conmutará el estado actual de la alarma. Debemos salir aceptando cambios pulsando 'D'. 
+          Si no se aceptan los cambio explicitamente la ctivacion o desactivacion no será efectiva, 
+          como tampoco lo serán los cambios en la hora de la alarma. 
+          Al salir de la programacion se nos motrara una mensaje del estado en que ha quedado.
 
   'B' --> Programar la hora del reloj (solo si la luz esta encendida...)
           El display mostrara en la parte derecha los caracteres 'H?'
@@ -68,9 +70,12 @@
       - Añadida la opcion de luz de cortesia que ilumina el display al tocar una tecla 
         para facilitar la lectura de la hora durante la consultas nocturnas.
  
-
+   >> Version 1.2  Fecha: 19/03/2020 
+      - Aprovechando que he releido el codigo, modificada la operativa de programacion de la alarma 
+        para hacerla mas sencilla.
+        
    
-   Tamaño actual compilado 8190 bytes de programa y 553 bytes de uso de RAM
+   Tamaño actual compilado con Arduino IDE 1.8.10 >> 8246 bytes de programa y 553 bytes de uso de RAM
 
 
 
