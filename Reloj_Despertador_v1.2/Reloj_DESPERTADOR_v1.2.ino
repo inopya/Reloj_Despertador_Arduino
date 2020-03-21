@@ -203,11 +203,6 @@ void setup()
   lcd.createChar(2, bloques[2]);
   lcd.createChar(3, bloques[3]);
   lcd.createChar(4, bloques[4]);
-
-  lcd.setCursor(8, 0);
-  lcd.write(165);
-  lcd.setCursor(8, 1);  
-  lcd.write(165);
   
   /* comprobamos que la eeprom contenga datos validos en cuyo caso usamos esos datos como hora de alarma */
   if (MARCA_VALIDEZ == leerEEPROM(2)){
